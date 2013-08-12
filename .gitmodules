@@ -1,3 +1,6 @@
 [submodule "2010/Documents/Comparison_to_Prior_Releases"]
 	path = 2010/Documents/Comparison_to_Prior_Releases
 	url = git@github.com:cmlh/OWASP-Top-Ten-2010.git
+[submodule "2013/Documents/Comparison_to_Prior_Releases"]
+	path = 2013/Documents/Comparison_to_Prior_Releases
+	url = git@github.com:cmlh/OWASP-Top-Ten-2013.git
